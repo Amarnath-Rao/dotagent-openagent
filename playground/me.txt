@@ -1,0 +1,5 @@
+{{#user}}
+Name: N Amarnath Rao
+Skills: HTML, CSS, JS, Next.js, React.js, Node.js
+Email: AmarnathRao36@gmail.com
+{{/user}}
